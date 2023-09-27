@@ -1,5 +1,8 @@
 # 560crypter
 
+reverse engineering: https://github.com/weidai11/cryptopp
+openssl aes: https://wiki.openssl.org/index.php/EVP_Authenticated_Encryption_and_Decryption
+
 Syntax:
 
  To encrypt: ./duke-crypter -e <input_file> <output_file>
